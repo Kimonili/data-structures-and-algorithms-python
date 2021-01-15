@@ -1,4 +1,4 @@
-This repository is part of my self-study preparation for coding intervious related to data structures and algorithms :books:. I am following this amazing 
+This repository is part of my self-study preparation for coding interviews related to data structures and algorithms :books:. I am following this amazing 
 [playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) :tv:
 that has proven to be one of the best resources around for begginers or programmers that need to make a quick refresh on their DSA knowledge :snake:. 
 
