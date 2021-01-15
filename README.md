@@ -22,7 +22,7 @@ that has proven to be one of the best resources around for begginers or programm
 * Algorithms (need to add the rest of the files)
 
 
-Footnote: Feel free to comment on the performence of the code! :bar_chart: Feedback is more than welcome! :smiley:
+Footnote: Feel free to comment on the performance of the code! :bar_chart: Feedback is more than welcome! :smiley:
               
               
               
