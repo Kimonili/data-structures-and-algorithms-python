@@ -20,10 +20,9 @@ that has proven to be one of the best resources around for begginers or programm
     *    [Graph](https://github.com/Kimonili/data-structures-and-algorithms-python/blob/master/graph.py)
 
 * Algorithms (need to add the rest of the files)
+    *    [Binary Search](https://github.com/Kimonili/data-structures-and-algorithms-python/blob/master/binary_search_algorithm.py)
+
 
 
 Footnote: Feel free to comment on the performance of the code! :bar_chart: Feedback is more than welcome! :smiley:
-              
-              
-              
-              
+             
